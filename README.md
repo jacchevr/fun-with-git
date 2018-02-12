@@ -9,3 +9,5 @@ Playing with Git
 3. Enlightenment
 4. Version Control!
 This is Jacques!
+Add a line
+or two
